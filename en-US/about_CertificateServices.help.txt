@@ -1,0 +1,16 @@
+﻿TOPIC
+	about_DirectoryServices
+SHORT DESCRIPTION
+    PowerShell Module for Active Directory Certificate Services (AD CS)
+LONG DESCRIPTION
+    PowerShell Module for Active Directory Certificate Services (AD CS)
+NOTES
+    Name:            CertificateServices
+    Title:           Active Directory Certificate Services PowerShell Module
+    Authors:         Andreas Sørlie
+    Date:            13.06.2016
+    Version:         0.0.1
+
+CHANGELOG
+    13.06.2016: 0.0.1 Andreas Sørlie
+    - Initial commit
